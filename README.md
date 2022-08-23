@@ -8,7 +8,7 @@
 💻 BE Engineer   
 👩‍🎓 Korea Univ. Computer Science  
 📌 **[BLOG](https://dw3232.tistory.com)** |
-**[EMAIL](mailto:person00333@gmail.com)** | **[RESUME](https://career.programmers.co.kr/job_profiles/44986)**
+**[EMAIL](mailto:person00333@gmail.com)** | **[RESUME](https://career.programmers.co.kr/pr/person00333_1379)**
 
 
 ## :books: Skill
