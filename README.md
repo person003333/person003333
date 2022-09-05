@@ -75,7 +75,7 @@
 
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=person003333&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=person003333&layout=compact)](https://github.com/person003333/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=person003333&layout=compact&hide=C,C%2B%2B,CMake&langs_count=8)](https://github.com/person003333/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=24869)](https://solved.ac/24869)
